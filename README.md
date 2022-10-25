@@ -30,7 +30,7 @@ OMO 전략을 위한 계열사 확장 예측모델 및 상품 추천
 2. HDBSCAN
 
 
-
+<img width="70%" src=https://user-images.githubusercontent.com/91619301/197761631-98a95247-d838-4c41-9081-99b9724d95e8.png>
 1. 클러스터별 시각화 자료
 2. 프로파일링(페르소나)
 
