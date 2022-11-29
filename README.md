@@ -73,14 +73,14 @@
     - 이용한 계열사의 고유값에 해당하는 컬럼에 계열사 이용 횟수를 표시하고, 나머지 컬럼에는 0을 표시
     - one-hot enocidng과 달리, 인코딩 값으로 1 대신 계열사 이용 횟수 사용
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fcebb39-d745-4884-8d67-ea20b12e41df/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/91619301/204511258-f6c61f22-212a-47f8-a2be-8313e86d1075.png)
     
 - Label encoding
     - 계열사를 제외한 범주형 변수에 적용
 
 **[최종 학습 데이터]**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9b5212e-269e-476e-adec-2adec4d2b5a6/Untitled.png)
+![image](https://user-images.githubusercontent.com/91619301/204511391-76b4e0cd-119c-4f43-b61b-94fe28b2760a.png)
 
 - train, test 데이터 분리
     - 전체 중 5%(약 1000개)를 테스트 데이터로 분리
@@ -94,14 +94,14 @@
         
         [하이퍼파라미터 튜닝 결과]
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64e26abc-ab17-43f7-9c2f-bcccdb73c30e/Untitled.png)
+        ![image](https://user-images.githubusercontent.com/91619301/204511546-68131eaf-dfa5-4253-90cd-8c72f5bde1b8.png)
         
 - 데이터 증강
     - 확장 계열사 추가
     
     [계열사가 확장된 모든 경우 추가]
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/962dee89-854b-40ce-ae98-0fcf8d3f4051/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/91619301/204511616-10ac5193-47d3-44c9-8616-d542fb43d254.png)
     
 - 불균형 데이터 처리
     - 확장이 많이 일어난 A01, A02를 제외한 예측 정확도가 낮음.
@@ -149,12 +149,12 @@
 
 ### (3) **추천 시스템 구현**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f581ea4b-3a73-4735-8fe9-12f64a911b8b/Untitled.png)
+![image](https://user-images.githubusercontent.com/91619301/204511738-089b3b01-d5cd-43a3-859d-3f57effb61fb.png)
 
 ### (**4) 추천 시스템 결과 예시**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be7908db-7519-4d37-934a-b74838c7aa10/Untitled.png)
+![image](https://user-images.githubusercontent.com/91619301/204511864-bc1ecee2-5074-451c-bc10-5e067afdf04a.png)
 
 ## 💁‍♂️ 고객 클러스터별 마케팅 전략
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50f7fec4-8997-4117-bf04-912dadf3bae9/Untitled.png)
+![image](https://user-images.githubusercontent.com/91619301/204511958-164d471c-44bf-461a-8c59-d1c53a18cfc2.png)
