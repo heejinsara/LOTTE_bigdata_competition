@@ -63,7 +63,7 @@ EDA와 클러스터링 결과에 따라 고객이 이용하는 계열사 수가 
 Custom encoding
 이용한 계열사의 고유값에 해당하는 컬럼에 계열사 이용 횟수를 표시하고, 나머지 컬럼에는 0을 표시
 one-hot enocidng과 달리, 인코딩 값으로 1 대신 계열사 이용 횟수 사용
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fcebb39-d745-4884-8d67-ea20b12e41df/Untitled.png)
+![image](https://user-images.githubusercontent.com/91619301/204510630-1ef0a9c4-948c-4880-a332-af3a50ae8079.png)
 Label encoding
 계열사를 제외한 범주형 변수에 적용
 [최종 학습 데이터]
